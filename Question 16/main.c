@@ -1,10 +1,3 @@
-/*
- * Name: Karisa Kanchan
- * Student ID: 816043952 
- * Q16: Repeatedly read A0 using the built-in ADC.
- * External LED: pin 2 / PA10.
- */
-
 #include <sam.h>
 #include <stdint.h>
 
